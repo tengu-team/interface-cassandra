@@ -1,0 +1,4 @@
+name: cassandra
+summary: Cassandra interface. Only the requires side is currently implemented.
+version: 1
+repo: https://github.com/tengu-team/interface-cassandra.git
